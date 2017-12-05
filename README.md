@@ -1,1 +1,1 @@
-# DATA 696 - supporting code and Ipython notebooks
+# DATA 698 - supporting code and Ipython notebooks
